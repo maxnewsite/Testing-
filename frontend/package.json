@@ -24,7 +24,8 @@
     "@hookform/resolvers": "^3.3.4",
     "date-fns": "^3.3.1",
     "clsx": "^2.1.0",
-    "lucide-react": "^0.314.0"
+    "lucide-react": "^0.314.0",
+    "firebase": "^10.7.2"
   },
   "devDependencies": {
     "@types/node": "^20",
