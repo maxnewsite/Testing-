@@ -1,6 +1,6 @@
-# PickFu-Like Market Research Platform
+# PeopleSay - Your Opinion, Amplified
 
-A comprehensive CRUD-based market research and polling platform with panel management, analytics, and payment integration.
+A modern, comprehensive market research platform where real people share authentic opinions. Built for researchers who need quality insights and panelists who want to be heard.
 
 ## Architecture
 
